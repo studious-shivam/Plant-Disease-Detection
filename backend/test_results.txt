@@ -1,0 +1,49 @@
+download1.jpg                       NOT_SOYBEAN  non_soy=0.9979  soy=0.0021
+download11.jpeg                     NOT_SOYBEAN  non_soy=0.9055  soy=0.0945
+download (1).jpeg                   NOT_SOYBEAN  non_soy=0.9998  soy=0.0002
+download (10).jpeg                  NOT_SOYBEAN  non_soy=0.9996  soy=0.0004
+download (11).jpeg                  NOT_SOYBEAN  non_soy=0.9905  soy=0.0095
+download (12).jpeg                  NOT_SOYBEAN  non_soy=0.9991  soy=0.0009
+download (13).jpeg                  NOT_SOYBEAN  non_soy=0.9987  soy=0.0013
+download (14).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (15).jpeg                  NOT_SOYBEAN  non_soy=1.0000  soy=0.0000
+download (16).jpeg                  NOT_SOYBEAN  non_soy=0.9948  soy=0.0052
+download (17).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (18).jpeg                  NOT_SOYBEAN  non_soy=0.9905  soy=0.0095
+download (19).jpeg                  NOT_SOYBEAN  non_soy=0.9998  soy=0.0002
+download (2).jpeg                   NOT_SOYBEAN  non_soy=0.9998  soy=0.0002
+download (20).jpeg                  NOT_SOYBEAN  non_soy=0.9994  soy=0.0006
+download (21).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (22).jpeg                  NOT_SOYBEAN  non_soy=0.9994  soy=0.0006
+download (23).jpeg                  NOT_SOYBEAN  non_soy=0.9994  soy=0.0006
+download (24).jpeg                  NOT_SOYBEAN  non_soy=0.9992  soy=0.0008
+download (25).jpeg                  NOT_SOYBEAN  non_soy=0.9984  soy=0.0016
+download (26).jpeg                  NOT_SOYBEAN  non_soy=0.9984  soy=0.0016
+download (27).jpeg                  NOT_SOYBEAN  non_soy=0.9988  soy=0.0012
+download (28).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (29).jpeg                  NOT_SOYBEAN  non_soy=0.9996  soy=0.0004
+download (3).jpeg                   NOT_SOYBEAN  non_soy=0.9939  soy=0.0061
+download (30).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (31).jpeg                  NOT_SOYBEAN  non_soy=0.9948  soy=0.0052
+download (32).jpeg                  NOT_SOYBEAN  non_soy=0.9910  soy=0.0090
+download (33).jpeg                  NOT_SOYBEAN  non_soy=0.9997  soy=0.0003
+download (34).jpeg                  NOT_SOYBEAN  non_soy=0.9997  soy=0.0003
+download (35).jpeg                  NOT_SOYBEAN  non_soy=0.9958  soy=0.0042
+download (36).jpeg                  NOT_SOYBEAN  non_soy=0.9971  soy=0.0029
+download (37).jpeg                  NOT_SOYBEAN  non_soy=0.9999  soy=0.0001
+download (4).jpeg                   NOT_SOYBEAN  non_soy=0.9906  soy=0.0094
+download (5).jpeg                   NOT_SOYBEAN  non_soy=0.9998  soy=0.0002
+download (6).jpeg                   NOT_SOYBEAN  non_soy=0.9905  soy=0.0095
+download (7).jpeg                   NOT_SOYBEAN  non_soy=0.9925  soy=0.0075
+download (8).jpeg                   NOT_SOYBEAN  non_soy=0.9978  soy=0.0022
+download (9).jpeg                   NOT_SOYBEAN  non_soy=0.9989  soy=0.0011
+download.jpeg                       NOT_SOYBEAN  non_soy=0.9993  soy=0.0007
+download1.jpg                       NOT_SOYBEAN  non_soy=0.9979  soy=0.0021
+images (1).jpeg                     NOT_SOYBEAN  non_soy=0.9923  soy=0.0077
+images (2).jpeg                     NOT_SOYBEAN  non_soy=0.9991  soy=0.0009
+images (3).jpeg                     NOT_SOYBEAN  non_soy=0.9994  soy=0.0006
+images (4).jpeg                     NOT_SOYBEAN  non_soy=0.9996  soy=0.0004
+images.jpeg                         NOT_SOYBEAN  non_soy=1.0000  soy=0.0000
+
+Rejected 46/46 as non-soybean
+Misclassified 0/46 as soybean

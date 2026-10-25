@@ -1,0 +1,1485 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-10-24 10:53:09.593286",
+        "data": {
+            "message": "Genesis Block - Plant Disease Detection System",
+            "system": "AI Crop Monitoring with Blockchain"
+        },
+        "previous_hash": "0",
+        "nonce": 299,
+        "hash": "005a5464d6f5770407db62efc2675fd87ae1d080551a39cf6e60788b8bb3e0e7"
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-10-24 11:04:09.799411",
+        "data": {
+            "prediction_id": "PRED_1",
+            "timestamp": "2025-10-24 11:04:09.799400",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 34,
+            "confidence": 0.85,
+            "image_name": "2.JPG",
+            "verified": true
+        },
+        "previous_hash": "005a5464d6f5770407db62efc2675fd87ae1d080551a39cf6e60788b8bb3e0e7",
+        "nonce": 214,
+        "hash": "00e6ad65d4647131cae5762d7094a4a00ea0924fea6cc6b57a74ec72e46ae8f6"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-10-24 11:04:48.208270",
+        "data": {
+            "prediction_id": "PRED_2",
+            "timestamp": "2025-10-24 11:04:48.208247",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 18,
+            "confidence": 0.85,
+            "image_name": "4.jpg",
+            "verified": true
+        },
+        "previous_hash": "00e6ad65d4647131cae5762d7094a4a00ea0924fea6cc6b57a74ec72e46ae8f6",
+        "nonce": 81,
+        "hash": "001b3c11173561d66aa8c73945aa7d3ae569cbd5435e56eb5f03f09faf233a26"
+    },
+    {
+        "index": 3,
+        "timestamp": "2025-10-24 11:04:51.276548",
+        "data": {
+            "prediction_id": "PRED_3",
+            "timestamp": "2025-10-24 11:04:51.276537",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 18,
+            "confidence": 0.85,
+            "image_name": "4.jpg",
+            "verified": true
+        },
+        "previous_hash": "001b3c11173561d66aa8c73945aa7d3ae569cbd5435e56eb5f03f09faf233a26",
+        "nonce": 12,
+        "hash": "00506483088552a1d6e5620706087770a19d53088ed51eec53fb61bf2bcb7a34"
+    },
+    {
+        "index": 4,
+        "timestamp": "2025-10-24 11:05:00.953528",
+        "data": {
+            "prediction_id": "PRED_4",
+            "timestamp": "2025-10-24 11:05:00.953518",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 10,
+            "confidence": 0.85,
+            "image_name": "DSC_0082.jpg",
+            "verified": true
+        },
+        "previous_hash": "00506483088552a1d6e5620706087770a19d53088ed51eec53fb61bf2bcb7a34",
+        "nonce": 371,
+        "hash": "005f5b2df84fa41b1a74141ec659b62a08c945a97e109e12c0146046d4e3f7e9"
+    },
+    {
+        "index": 5,
+        "timestamp": "2025-10-24 11:05:04.634341",
+        "data": {
+            "prediction_id": "PRED_5",
+            "timestamp": "2025-10-24 11:05:04.634328",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 10,
+            "confidence": 0.85,
+            "image_name": "DSC_0082.jpg",
+            "verified": true
+        },
+        "previous_hash": "005f5b2df84fa41b1a74141ec659b62a08c945a97e109e12c0146046d4e3f7e9",
+        "nonce": 149,
+        "hash": "00d12b7ea770bd97e85e8f1fbe473a4d90e805603c943cf713b40e9357bee709"
+    },
+    {
+        "index": 6,
+        "timestamp": "2025-10-24 11:05:12.838690",
+        "data": {
+            "prediction_id": "PRED_6",
+            "timestamp": "2025-10-24 11:05:12.838677",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 60,
+            "confidence": 0.85,
+            "image_name": "Septoriah.jpg",
+            "verified": true
+        },
+        "previous_hash": "00d12b7ea770bd97e85e8f1fbe473a4d90e805603c943cf713b40e9357bee709",
+        "nonce": 70,
+        "hash": "005dfe24327eddc8058ac7876b73c6597f643300312507a701213694bd902a71"
+    },
+    {
+        "index": 7,
+        "timestamp": "2025-10-24 11:05:24.566164",
+        "data": {
+            "prediction_id": "PRED_7",
+            "timestamp": "2025-10-24 11:05:24.566154",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 65,
+            "confidence": 0.85,
+            "image_name": "YM (90).jpg",
+            "verified": true
+        },
+        "previous_hash": "005dfe24327eddc8058ac7876b73c6597f643300312507a701213694bd902a71",
+        "nonce": 182,
+        "hash": "0000a2100cffd7b43d6edd00ae6aca40794a402f6221132d4199723c3e2fdc70"
+    },
+    {
+        "index": 8,
+        "timestamp": "2025-11-04 21:57:17.740724",
+        "data": {
+            "prediction_id": "PRED_8",
+            "timestamp": "2025-11-04 21:57:17.740710",
+            "disease": "bacterial_blight",
+            "moisture": 49,
+            "confidence": 0.37,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "0000a2100cffd7b43d6edd00ae6aca40794a402f6221132d4199723c3e2fdc70",
+        "nonce": 544,
+        "hash": "00576446db21b4d18ed70c6f54ea0f1d81af7d2bd845b70750f027cba3d19e3c"
+    },
+    {
+        "index": 9,
+        "timestamp": "2025-11-04 21:57:22.440929",
+        "data": {
+            "prediction_id": "PRED_9",
+            "timestamp": "2025-11-04 21:57:22.440919",
+            "disease": "bacterial_blight",
+            "moisture": 49,
+            "confidence": 0.37,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "00576446db21b4d18ed70c6f54ea0f1d81af7d2bd845b70750f027cba3d19e3c",
+        "nonce": 66,
+        "hash": "00fb72bbab9f2e01b5ccee442485bc07ccf7c7c974f12e7bb12d8e785e0f6f63"
+    },
+    {
+        "index": 10,
+        "timestamp": "2025-11-04 21:57:31.399082",
+        "data": {
+            "prediction_id": "PRED_10",
+            "timestamp": "2025-11-04 21:57:31.399072",
+            "disease": "bacterial_blight",
+            "moisture": 26,
+            "confidence": 0.91,
+            "image_name": "bb (3).jpg",
+            "verified": true
+        },
+        "previous_hash": "00fb72bbab9f2e01b5ccee442485bc07ccf7c7c974f12e7bb12d8e785e0f6f63",
+        "nonce": 87,
+        "hash": "006a3af02c1f4874a2af8e2cafcd9e3834b48101a05d846ea8bef0c56bef483a"
+    },
+    {
+        "index": 11,
+        "timestamp": "2025-11-04 21:57:42.021502",
+        "data": {
+            "prediction_id": "PRED_11",
+            "timestamp": "2025-11-04 21:57:42.021492",
+            "disease": "bacterial_blight",
+            "moisture": 19,
+            "confidence": 0.91,
+            "image_name": "bb (6).jpg",
+            "verified": true
+        },
+        "previous_hash": "006a3af02c1f4874a2af8e2cafcd9e3834b48101a05d846ea8bef0c56bef483a",
+        "nonce": 90,
+        "hash": "00b3c568b677127b777d6eb5d59a5714b4fc2ae2712a8d7f5d1ff5effaccb3df"
+    },
+    {
+        "index": 12,
+        "timestamp": "2025-11-04 22:07:06.219748",
+        "data": {
+            "prediction_id": "PRED_12",
+            "timestamp": "2025-11-04 22:07:06.219662",
+            "disease": "bacterial_blight",
+            "moisture": 19,
+            "confidence": 0.91,
+            "image_name": "bb (6).jpg",
+            "verified": true
+        },
+        "previous_hash": "00b3c568b677127b777d6eb5d59a5714b4fc2ae2712a8d7f5d1ff5effaccb3df",
+        "nonce": 303,
+        "hash": "005d9ebe5aeb107987e36213cf9fc9c5cbafce7ee758c3819f7782b548c94d03"
+    },
+    {
+        "index": 13,
+        "timestamp": "2025-11-04 22:07:38.414245",
+        "data": {
+            "prediction_id": "PRED_13",
+            "timestamp": "2025-11-04 22:07:38.414233",
+            "disease": "bacterial_blight",
+            "moisture": 49,
+            "confidence": 0.37,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "005d9ebe5aeb107987e36213cf9fc9c5cbafce7ee758c3819f7782b548c94d03",
+        "nonce": 401,
+        "hash": "006a9e80d0596040315588a4cbfa821094ad82221121688f132b2a9281d2eccd"
+    },
+    {
+        "index": 14,
+        "timestamp": "2025-11-04 22:08:26.957869",
+        "data": {
+            "prediction_id": "PRED_14",
+            "timestamp": "2025-11-04 22:08:26.957859",
+            "disease": "Yellow Mosaic",
+            "moisture": 65,
+            "confidence": 0.74,
+            "image_name": "YM (90).jpg",
+            "verified": true
+        },
+        "previous_hash": "006a9e80d0596040315588a4cbfa821094ad82221121688f132b2a9281d2eccd",
+        "nonce": 81,
+        "hash": "00e1a8bff9bcdd4838f827453df0ea8d435a18975d608f2d2c0f66ef8e4c79b4"
+    },
+    {
+        "index": 15,
+        "timestamp": "2025-11-04 22:08:43.457877",
+        "data": {
+            "prediction_id": "PRED_15",
+            "timestamp": "2025-11-04 22:08:43.457818",
+            "disease": "Southern blight",
+            "moisture": 21,
+            "confidence": 0.87,
+            "image_name": "DSC_0104.jpg",
+            "verified": true
+        },
+        "previous_hash": "00e1a8bff9bcdd4838f827453df0ea8d435a18975d608f2d2c0f66ef8e4c79b4",
+        "nonce": 357,
+        "hash": "00e4f203bfecc047fc185c124a97c152674c8c9f9e273ed3499d25e871f312a8"
+    },
+    {
+        "index": 16,
+        "timestamp": "2025-11-04 22:09:23.459048",
+        "data": {
+            "prediction_id": "PRED_16",
+            "timestamp": "2025-11-04 22:09:23.459039",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "00e4f203bfecc047fc185c124a97c152674c8c9f9e273ed3499d25e871f312a8",
+        "nonce": 1237,
+        "hash": "00e9965f71f7f57e2bb12e17b73df1c6aa360d7aadc685bcd357122e55252365"
+    },
+    {
+        "index": 17,
+        "timestamp": "2025-11-04 22:09:53.621474",
+        "data": {
+            "prediction_id": "PRED_17",
+            "timestamp": "2025-11-04 22:09:53.621453",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00e9965f71f7f57e2bb12e17b73df1c6aa360d7aadc685bcd357122e55252365",
+        "nonce": 519,
+        "hash": "00dd0014d8300e7da4bb17a26e6c2e4293e23c1999ebe8d5ad613e209ac22e2f"
+    },
+    {
+        "index": 18,
+        "timestamp": "2025-11-05 00:22:45.584634",
+        "data": {
+            "prediction_id": "PRED_18",
+            "timestamp": "2025-11-05 00:22:45.584623",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00dd0014d8300e7da4bb17a26e6c2e4293e23c1999ebe8d5ad613e209ac22e2f",
+        "nonce": 213,
+        "hash": "002610ca9aaf39a8fb083e0f01d23be0224ada22edcf0f9d8ba819310d1619ce"
+    },
+    {
+        "index": 19,
+        "timestamp": "2025-11-10 11:16:54.150155",
+        "data": {
+            "prediction_id": "PRED_19",
+            "timestamp": "2025-11-10 11:16:54.150143",
+            "disease": "Yellow Mosaic",
+            "moisture": 65,
+            "confidence": 0.74,
+            "image_name": "YM (90).jpg",
+            "verified": true
+        },
+        "previous_hash": "002610ca9aaf39a8fb083e0f01d23be0224ada22edcf0f9d8ba819310d1619ce",
+        "nonce": 63,
+        "hash": "00be72346a495bf83189f4aae52a002cc6400ce736a95fc00c98dd6d982151d3"
+    },
+    {
+        "index": 20,
+        "timestamp": "2025-11-10 11:18:11.816051",
+        "data": {
+            "prediction_id": "PRED_20",
+            "timestamp": "2025-11-10 11:18:11.816039",
+            "disease": "Yellow Mosaic",
+            "moisture": 74,
+            "confidence": 0.92,
+            "image_name": "YM (91).jpg",
+            "verified": true
+        },
+        "previous_hash": "00be72346a495bf83189f4aae52a002cc6400ce736a95fc00c98dd6d982151d3",
+        "nonce": 307,
+        "hash": "009deb2cd88410fa6fa81ed00ae816b3a6c120cf322963fabf01eb08a4b52081"
+    },
+    {
+        "index": 21,
+        "timestamp": "2025-11-10 11:22:44.516455",
+        "data": {
+            "prediction_id": "PRED_21",
+            "timestamp": "2025-11-10 11:22:44.516443",
+            "disease": "Yellow Mosaic",
+            "moisture": 73,
+            "confidence": 0.89,
+            "image_name": "YM (99).jpg",
+            "verified": true
+        },
+        "previous_hash": "009deb2cd88410fa6fa81ed00ae816b3a6c120cf322963fabf01eb08a4b52081",
+        "nonce": 410,
+        "hash": "0074befb47eab1634c4906b257757a3960d2fc804ca351bf02f74c063bf3e9b1"
+    },
+    {
+        "index": 22,
+        "timestamp": "2025-11-10 11:24:16.293064",
+        "data": {
+            "prediction_id": "PRED_22",
+            "timestamp": "2025-11-10 11:24:16.293049",
+            "disease": "Yellow Mosaic",
+            "moisture": 73,
+            "confidence": 0.89,
+            "image_name": "YM (99).jpg",
+            "verified": true
+        },
+        "previous_hash": "0074befb47eab1634c4906b257757a3960d2fc804ca351bf02f74c063bf3e9b1",
+        "nonce": 258,
+        "hash": "00de4cb70632af714e69222d37d4b1bac7a5ed194601560232122c6621433842"
+    },
+    {
+        "index": 23,
+        "timestamp": "2025-11-10 11:24:25.779750",
+        "data": {
+            "prediction_id": "PRED_23",
+            "timestamp": "2025-11-10 11:24:25.779736",
+            "disease": "ferrugen",
+            "moisture": 44,
+            "confidence": 0.79,
+            "image_name": "DSC_0009.jpg",
+            "verified": true
+        },
+        "previous_hash": "00de4cb70632af714e69222d37d4b1bac7a5ed194601560232122c6621433842",
+        "nonce": 287,
+        "hash": "0001a4b2a57c4c0f25b797b772d3af661dd6e6d39feee67df88aa57a39f23b17"
+    },
+    {
+        "index": 24,
+        "timestamp": "2025-11-10 11:33:28.076042",
+        "data": {
+            "prediction_id": "PRED_24",
+            "timestamp": "2025-11-10 11:33:28.076024",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "0001a4b2a57c4c0f25b797b772d3af661dd6e6d39feee67df88aa57a39f23b17",
+        "nonce": 39,
+        "hash": "00b97dce18e219b117ca0c517fcdaecc20c25efcf0804f743bcbe6624b48760b"
+    },
+    {
+        "index": 25,
+        "timestamp": "2025-11-10 13:13:55.300426",
+        "data": {
+            "prediction_id": "PRED_25",
+            "timestamp": "2025-11-10 13:13:55.300410",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "00b97dce18e219b117ca0c517fcdaecc20c25efcf0804f743bcbe6624b48760b",
+        "nonce": 430,
+        "hash": "009b227c1df139ff5809d96591ba425f9d407169ef54ced23acc2ffc655fdef7"
+    },
+    {
+        "index": 26,
+        "timestamp": "2025-11-10 14:23:15.962723",
+        "data": {
+            "prediction_id": "PRED_26",
+            "timestamp": "2025-11-10 14:23:15.962705",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "009b227c1df139ff5809d96591ba425f9d407169ef54ced23acc2ffc655fdef7",
+        "nonce": 129,
+        "hash": "0009feceefc4681c26748495dfea8995f174fd7fe2f67977e0ebfb54b41494aa"
+    },
+    {
+        "index": 27,
+        "timestamp": "2025-11-10 14:25:18.421037",
+        "data": {
+            "prediction_id": "PRED_27",
+            "timestamp": "2025-11-10 14:25:18.421021",
+            "disease": "bacterial_blight",
+            "moisture": 19,
+            "confidence": 0.77,
+            "image_name": "download11.jpeg",
+            "verified": true
+        },
+        "previous_hash": "0009feceefc4681c26748495dfea8995f174fd7fe2f67977e0ebfb54b41494aa",
+        "nonce": 604,
+        "hash": "000dcc9082373e69ae76054c1c36c4e69830dcfa8bc8c76f6a79d6493cb7608a"
+    },
+    {
+        "index": 28,
+        "timestamp": "2025-11-10 15:06:12.250100",
+        "data": {
+            "prediction_id": "PRED_28",
+            "timestamp": "2025-11-10 15:06:12.249613",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "000dcc9082373e69ae76054c1c36c4e69830dcfa8bc8c76f6a79d6493cb7608a",
+        "nonce": 89,
+        "hash": "002ed9ac5e389c97db7fd6044120fb341614970e713a986c2b8cf111ed478f97"
+    },
+    {
+        "index": 29,
+        "timestamp": "2025-11-12 19:43:44.764323",
+        "data": {
+            "prediction_id": "PRED_29",
+            "timestamp": "2025-11-12 19:43:44.764313",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "002ed9ac5e389c97db7fd6044120fb341614970e713a986c2b8cf111ed478f97",
+        "nonce": 29,
+        "hash": "00f090c42ec9808396c444a337e3025f4c8469fa37601ee80f7e231c43b20749"
+    },
+    {
+        "index": 30,
+        "timestamp": "2025-11-13 09:44:45.416361",
+        "data": {
+            "prediction_id": "PRED_30",
+            "timestamp": "2025-11-13 09:44:45.416346",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00f090c42ec9808396c444a337e3025f4c8469fa37601ee80f7e231c43b20749",
+        "nonce": 115,
+        "hash": "006d5bb13a81fe0ab4358365f4e48214ddd11665fa4a924234ee83b68f449fa2"
+    },
+    {
+        "index": 31,
+        "timestamp": "2025-11-13 09:46:06.478822",
+        "data": {
+            "prediction_id": "PRED_31",
+            "timestamp": "2025-11-13 09:46:06.478811",
+            "disease": "Yellow Mosaic",
+            "moisture": 54,
+            "confidence": 0.82,
+            "image_name": "download11.jpeg",
+            "verified": true
+        },
+        "previous_hash": "006d5bb13a81fe0ab4358365f4e48214ddd11665fa4a924234ee83b68f449fa2",
+        "nonce": 32,
+        "hash": "00c47087332ac01486010bf1003ef8c604c08476e0b7948a0ff44f4f1ac954fa"
+    },
+    {
+        "index": 32,
+        "timestamp": "2025-11-13 09:46:52.869318",
+        "data": {
+            "prediction_id": "PRED_32",
+            "timestamp": "2025-11-13 09:46:52.869307",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00c47087332ac01486010bf1003ef8c604c08476e0b7948a0ff44f4f1ac954fa",
+        "nonce": 420,
+        "hash": "003d5101f34ca77e1a0a1c4bd7ed16acb35f9ead7ae9a1658d0a79aa32cfb849"
+    },
+    {
+        "index": 33,
+        "timestamp": "2025-11-13 10:55:16.166173",
+        "data": {
+            "prediction_id": "PRED_33",
+            "timestamp": "2025-11-13 10:55:16.166141",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 35,
+            "confidence": 0.7,
+            "image_name": "Untitled design.png",
+            "verified": true
+        },
+        "previous_hash": "003d5101f34ca77e1a0a1c4bd7ed16acb35f9ead7ae9a1658d0a79aa32cfb849",
+        "nonce": 164,
+        "hash": "00acfd47ce86b70ec42d4d1bd22f9fd54d6b129cd491873419f9218eccb57f19"
+    },
+    {
+        "index": 34,
+        "timestamp": "2025-11-13 10:55:35.612418",
+        "data": {
+            "prediction_id": "PRED_34",
+            "timestamp": "2025-11-13 10:55:35.612407",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00acfd47ce86b70ec42d4d1bd22f9fd54d6b129cd491873419f9218eccb57f19",
+        "nonce": 213,
+        "hash": "007ada71b1f767c06ba116862bb8c1af96585c373cde5271aed96015760e3f8b"
+    },
+    {
+        "index": 35,
+        "timestamp": "2025-11-13 11:14:01.791483",
+        "data": {
+            "prediction_id": "PRED_35",
+            "timestamp": "2025-11-13 11:14:01.791469",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "007ada71b1f767c06ba116862bb8c1af96585c373cde5271aed96015760e3f8b",
+        "nonce": 13,
+        "hash": "00f445e8d0eb1e03cb0d800a09e8db54d2cf4fd0c1500253adbefeec0c71e620"
+    },
+    {
+        "index": 36,
+        "timestamp": "2025-11-13 11:14:20.431900",
+        "data": {
+            "prediction_id": "PRED_36",
+            "timestamp": "2025-11-13 11:14:20.431891",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00f445e8d0eb1e03cb0d800a09e8db54d2cf4fd0c1500253adbefeec0c71e620",
+        "nonce": 1,
+        "hash": "009c6e0569da8cf13485872a8b8ecf35122531dada64e9ed63928b7e076dcec7"
+    },
+    {
+        "index": 37,
+        "timestamp": "2025-11-13 11:16:22.499968",
+        "data": {
+            "prediction_id": "PRED_37",
+            "timestamp": "2025-11-13 11:16:22.499953",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "009c6e0569da8cf13485872a8b8ecf35122531dada64e9ed63928b7e076dcec7",
+        "nonce": 74,
+        "hash": "00ec3f4014f28f301e09e2361ad7dd5c3142c62a803a3f7dc66e8bb28fc43201"
+    },
+    {
+        "index": 38,
+        "timestamp": "2026-02-26 23:40:02.324048",
+        "data": {
+            "prediction_id": "PRED_38",
+            "timestamp": "2026-02-26 23:40:02.324038",
+            "disease": "Yellow Mosaic",
+            "moisture": 65,
+            "confidence": 0.74,
+            "image_name": "YM (90).jpg",
+            "verified": true
+        },
+        "previous_hash": "00ec3f4014f28f301e09e2361ad7dd5c3142c62a803a3f7dc66e8bb28fc43201",
+        "nonce": 390,
+        "hash": "00a056954a030efed21259f47cadc33084bfa0c7a84a03f6a770b2a5441cb448"
+    },
+    {
+        "index": 39,
+        "timestamp": "2026-02-26 23:49:04.740417",
+        "data": {
+            "prediction_id": "PRED_39",
+            "timestamp": "2026-02-26 23:49:04.740404",
+            "disease": "Yellow Mosaic",
+            "moisture": 30,
+            "confidence": 0.32,
+            "image_name": "download (30).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00a056954a030efed21259f47cadc33084bfa0c7a84a03f6a770b2a5441cb448",
+        "nonce": 226,
+        "hash": "00a7c5cb979804a1f1aabeef780469a0f51a94cf8b6da9d70ff1c531c7d76570"
+    },
+    {
+        "index": 40,
+        "timestamp": "2026-02-26 23:58:26.664336",
+        "data": {
+            "prediction_id": "PRED_40",
+            "timestamp": "2026-02-26 23:58:26.664318",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.76,
+            "image_name": "images (3).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00a7c5cb979804a1f1aabeef780469a0f51a94cf8b6da9d70ff1c531c7d76570",
+        "nonce": 152,
+        "hash": "00a5b51edda784b23e4bbbbc9cd0faea4839f64ce79caa666e5be844585e94d8"
+    },
+    {
+        "index": 41,
+        "timestamp": "2026-02-26 23:58:36.784967",
+        "data": {
+            "prediction_id": "PRED_41",
+            "timestamp": "2026-02-26 23:58:36.784955",
+            "disease": "Yellow Mosaic",
+            "moisture": 69,
+            "confidence": 0.94,
+            "image_name": "download (36).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00a5b51edda784b23e4bbbbc9cd0faea4839f64ce79caa666e5be844585e94d8",
+        "nonce": 665,
+        "hash": "0043fee5b0bbe2ed73ce7bbe9bad28cabfb788428f65e00070708d2570080d35"
+    },
+    {
+        "index": 42,
+        "timestamp": "2026-02-26 23:58:42.129961",
+        "data": {
+            "prediction_id": "PRED_42",
+            "timestamp": "2026-02-26 23:58:42.129621",
+            "disease": "Yellow Mosaic",
+            "moisture": 47,
+            "confidence": 0.56,
+            "image_name": "images (2).jpeg",
+            "verified": true
+        },
+        "previous_hash": "0043fee5b0bbe2ed73ce7bbe9bad28cabfb788428f65e00070708d2570080d35",
+        "nonce": 226,
+        "hash": "00270d3e8c6161c73a1f1bbb7947f246b402e1cdcbd52a284d74658df7bc27d7"
+    },
+    {
+        "index": 43,
+        "timestamp": "2026-02-26 23:58:50.719083",
+        "data": {
+            "prediction_id": "PRED_43",
+            "timestamp": "2026-02-26 23:58:50.719072",
+            "disease": "Yellow Mosaic",
+            "moisture": 35,
+            "confidence": 0.45,
+            "image_name": "download (3).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00270d3e8c6161c73a1f1bbb7947f246b402e1cdcbd52a284d74658df7bc27d7",
+        "nonce": 101,
+        "hash": "0031efcc50d6afe9ce787da843945453cf594a459019df762a3dad437dee5fd3"
+    },
+    {
+        "index": 44,
+        "timestamp": "2026-02-27 00:02:39.956176",
+        "data": {
+            "prediction_id": "PRED_44",
+            "timestamp": "2026-02-27 00:02:39.956164",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "0031efcc50d6afe9ce787da843945453cf594a459019df762a3dad437dee5fd3",
+        "nonce": 87,
+        "hash": "00dd3036735746978cba881c5d6fbac66cba0e99add65d67c97776612bb64d04"
+    },
+    {
+        "index": 45,
+        "timestamp": "2026-02-27 00:04:47.351120",
+        "data": {
+            "prediction_id": "PRED_45",
+            "timestamp": "2026-02-27 00:04:47.351103",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00dd3036735746978cba881c5d6fbac66cba0e99add65d67c97776612bb64d04",
+        "nonce": 92,
+        "hash": "00a0dfeef607e5e9c18629a028d9067356dcb1123af3cc9a0803d62190c1296e"
+    },
+    {
+        "index": 46,
+        "timestamp": "2026-02-27 00:04:48.132902",
+        "data": {
+            "prediction_id": "PRED_46",
+            "timestamp": "2026-02-27 00:04:48.132893",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00a0dfeef607e5e9c18629a028d9067356dcb1123af3cc9a0803d62190c1296e",
+        "nonce": 674,
+        "hash": "002d3a9c4a8a760bb71e8a8147d0dee077774713342f3102e0835417bfdaf496"
+    },
+    {
+        "index": 47,
+        "timestamp": "2026-02-27 00:04:48.300193",
+        "data": {
+            "prediction_id": "PRED_47",
+            "timestamp": "2026-02-27 00:04:48.300183",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "002d3a9c4a8a760bb71e8a8147d0dee077774713342f3102e0835417bfdaf496",
+        "nonce": 236,
+        "hash": "00b50389d707ef3cd706602b58239752b39a8ed1dde4c9feced493a2b95b9520"
+    },
+    {
+        "index": 48,
+        "timestamp": "2026-02-27 00:04:48.466622",
+        "data": {
+            "prediction_id": "PRED_48",
+            "timestamp": "2026-02-27 00:04:48.466611",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00b50389d707ef3cd706602b58239752b39a8ed1dde4c9feced493a2b95b9520",
+        "nonce": 69,
+        "hash": "00d2f64053a2d631c1d1747c9ec74e88916fc8b6d144df048f70ad2c451d66d2"
+    },
+    {
+        "index": 49,
+        "timestamp": "2026-02-27 00:04:48.642692",
+        "data": {
+            "prediction_id": "PRED_49",
+            "timestamp": "2026-02-27 00:04:48.642677",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00d2f64053a2d631c1d1747c9ec74e88916fc8b6d144df048f70ad2c451d66d2",
+        "nonce": 214,
+        "hash": "007fb71f730dff2c30c1b86e6c0aa1a20d2549bbbefd30e155b0cd2a276eb21e"
+    },
+    {
+        "index": 50,
+        "timestamp": "2026-02-27 00:04:48.796526",
+        "data": {
+            "prediction_id": "PRED_50",
+            "timestamp": "2026-02-27 00:04:48.796511",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "007fb71f730dff2c30c1b86e6c0aa1a20d2549bbbefd30e155b0cd2a276eb21e",
+        "nonce": 235,
+        "hash": "0027d4e331feb6d1701b81f02432623c8422078ee2f380f181bf4d2279853988"
+    },
+    {
+        "index": 51,
+        "timestamp": "2026-02-27 00:04:48.966254",
+        "data": {
+            "prediction_id": "PRED_51",
+            "timestamp": "2026-02-27 00:04:48.966244",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "0027d4e331feb6d1701b81f02432623c8422078ee2f380f181bf4d2279853988",
+        "nonce": 330,
+        "hash": "00225cfccff27bf4ef7aa0ae26b1ddbf2322258287e8d555b08953825da423c7"
+    },
+    {
+        "index": 52,
+        "timestamp": "2026-02-27 00:04:49.131757",
+        "data": {
+            "prediction_id": "PRED_52",
+            "timestamp": "2026-02-27 00:04:49.131746",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "00225cfccff27bf4ef7aa0ae26b1ddbf2322258287e8d555b08953825da423c7",
+        "nonce": 315,
+        "hash": "009e89e9434a28ac37f1e0d45ead1bdd71983e77b1073defd1cf63a5a49f31a7"
+    },
+    {
+        "index": 53,
+        "timestamp": "2026-02-27 00:04:49.305238",
+        "data": {
+            "prediction_id": "PRED_53",
+            "timestamp": "2026-02-27 00:04:49.305228",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "009e89e9434a28ac37f1e0d45ead1bdd71983e77b1073defd1cf63a5a49f31a7",
+        "nonce": 36,
+        "hash": "001a68316958ebff55809eb6a72d1c51b3bee46ce31a3842d5e56798c0cc3bd7"
+    },
+    {
+        "index": 54,
+        "timestamp": "2026-02-27 00:04:49.471592",
+        "data": {
+            "prediction_id": "PRED_54",
+            "timestamp": "2026-02-27 00:04:49.471578",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "001a68316958ebff55809eb6a72d1c51b3bee46ce31a3842d5e56798c0cc3bd7",
+        "nonce": 752,
+        "hash": "007f61e73ce73e7f24c1ae2327847ffff3eead826e09bc30573c31300062126a"
+    },
+    {
+        "index": 55,
+        "timestamp": "2026-02-27 00:04:49.628166",
+        "data": {
+            "prediction_id": "PRED_55",
+            "timestamp": "2026-02-27 00:04:49.628156",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "007f61e73ce73e7f24c1ae2327847ffff3eead826e09bc30573c31300062126a",
+        "nonce": 513,
+        "hash": "000570e2348e7f3733a12d39bb4f6278c8281338b1366dbc535f016780bf7af7"
+    },
+    {
+        "index": 56,
+        "timestamp": "2026-02-27 00:04:49.917703",
+        "data": {
+            "prediction_id": "PRED_56",
+            "timestamp": "2026-02-27 00:04:49.917682",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "000570e2348e7f3733a12d39bb4f6278c8281338b1366dbc535f016780bf7af7",
+        "nonce": 1121,
+        "hash": "005b986ea1612bec6d58daff6b051529582644b0ab3acde2e6195e3cb09c89d1"
+    },
+    {
+        "index": 57,
+        "timestamp": "2026-02-27 00:04:50.125633",
+        "data": {
+            "prediction_id": "PRED_57",
+            "timestamp": "2026-02-27 00:04:50.125622",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "005b986ea1612bec6d58daff6b051529582644b0ab3acde2e6195e3cb09c89d1",
+        "nonce": 107,
+        "hash": "0028a1f38e51ed5ac0c0cf5e6151f23382686c6f13a392dbd93415c82ab82bc8"
+    },
+    {
+        "index": 58,
+        "timestamp": "2026-02-27 00:04:50.344732",
+        "data": {
+            "prediction_id": "PRED_58",
+            "timestamp": "2026-02-27 00:04:50.344715",
+            "disease": "Yellow Mosaic",
+            "moisture": 44,
+            "confidence": 0.55,
+            "image_name": "images (4).jpeg",
+            "verified": true
+        },
+        "previous_hash": "0028a1f38e51ed5ac0c0cf5e6151f23382686c6f13a392dbd93415c82ab82bc8",
+        "nonce": 293,
+        "hash": "006b556c7ea633aba6a2070617a7ba0de6ab3483a6bfda4202c0b82bf46cd921"
+    },
+    {
+        "index": 59,
+        "timestamp": "2026-02-27 00:09:35.017365",
+        "data": {
+            "prediction_id": "PRED_59",
+            "timestamp": "2026-02-27 00:09:35.017352",
+            "disease": "Yellow Mosaic",
+            "moisture": 71,
+            "confidence": 0.91,
+            "image_name": "YM (97).jpg",
+            "verified": true
+        },
+        "previous_hash": "006b556c7ea633aba6a2070617a7ba0de6ab3483a6bfda4202c0b82bf46cd921",
+        "nonce": 125,
+        "hash": "0009041aa90ec8ce4f55436822366cd14aaaee36f92fdb6c838d87230f7bd0e5"
+    },
+    {
+        "index": 60,
+        "timestamp": "2026-02-27 00:10:18.951812",
+        "data": {
+            "prediction_id": "PRED_60",
+            "timestamp": "2026-02-27 00:10:18.951801",
+            "disease": "Yellow Mosaic",
+            "moisture": 72,
+            "confidence": 0.91,
+            "image_name": "YM (98).jpg",
+            "verified": true
+        },
+        "previous_hash": "0009041aa90ec8ce4f55436822366cd14aaaee36f92fdb6c838d87230f7bd0e5",
+        "nonce": 381,
+        "hash": "00f326fd41d0136f7b03ff355389c54dc3a6f1174209781e4ebd64dc2c9dc0bc"
+    },
+    {
+        "index": 61,
+        "timestamp": "2026-02-27 00:12:26.305779",
+        "data": {
+            "prediction_id": "PRED_61",
+            "timestamp": "2026-02-27 00:12:26.305763",
+            "disease": "powdery_mildew",
+            "moisture": 0,
+            "confidence": 0.58,
+            "image_name": "VELO logo.png",
+            "verified": true
+        },
+        "previous_hash": "00f326fd41d0136f7b03ff355389c54dc3a6f1174209781e4ebd64dc2c9dc0bc",
+        "nonce": 499,
+        "hash": "0066b359069d6e1d2d396ca4c3003cae00e9472f49b5c913c0ac1891b7fda22e"
+    },
+    {
+        "index": 62,
+        "timestamp": "2026-02-27 00:13:04.171718",
+        "data": {
+            "prediction_id": "PRED_62",
+            "timestamp": "2026-02-27 00:13:04.171709",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "0066b359069d6e1d2d396ca4c3003cae00e9472f49b5c913c0ac1891b7fda22e",
+        "nonce": 188,
+        "hash": "0097666e08e2c3bdbaa7dec88208b21045fcb8198df50b35abc8cc7705da2f3b"
+    },
+    {
+        "index": 63,
+        "timestamp": "2026-02-27 00:13:10.716100",
+        "data": {
+            "prediction_id": "PRED_63",
+            "timestamp": "2026-02-27 00:13:10.716091",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "0097666e08e2c3bdbaa7dec88208b21045fcb8198df50b35abc8cc7705da2f3b",
+        "nonce": 44,
+        "hash": "001a51c424d198eda9e71b25f74da5f06f903d93c82f56461e7275894bcbefd4"
+    },
+    {
+        "index": 64,
+        "timestamp": "2026-02-27 00:14:00.499259",
+        "data": {
+            "prediction_id": "PRED_64",
+            "timestamp": "2026-02-27 00:14:00.499247",
+            "disease": "septoria",
+            "moisture": 60,
+            "confidence": 0.87,
+            "image_name": "Septoriah.jpg",
+            "verified": true
+        },
+        "previous_hash": "001a51c424d198eda9e71b25f74da5f06f903d93c82f56461e7275894bcbefd4",
+        "nonce": 232,
+        "hash": "00adbc7b162290ba73dc2e63b6e54f4797c72d139f5b714f3313d96c09eec3f5"
+    },
+    {
+        "index": 65,
+        "timestamp": "2026-02-27 00:14:14.333749",
+        "data": {
+            "prediction_id": "PRED_65",
+            "timestamp": "2026-02-27 00:14:14.333738",
+            "disease": "Southern blight",
+            "moisture": 23,
+            "confidence": 0.92,
+            "image_name": "DSC_0025.jpg",
+            "verified": true
+        },
+        "previous_hash": "00adbc7b162290ba73dc2e63b6e54f4797c72d139f5b714f3313d96c09eec3f5",
+        "nonce": 256,
+        "hash": "00f03cabde707c6c8b3d09deb171231d73a310cbd560a88d49361f196d1f1310"
+    },
+    {
+        "index": 66,
+        "timestamp": "2026-02-27 00:17:16.962894",
+        "data": {
+            "prediction_id": "PRED_66",
+            "timestamp": "2026-02-27 00:17:16.962884",
+            "disease": "septoria",
+            "moisture": 50,
+            "confidence": 0.86,
+            "image_name": "Septoriac.jpg",
+            "verified": true
+        },
+        "previous_hash": "00f03cabde707c6c8b3d09deb171231d73a310cbd560a88d49361f196d1f1310",
+        "nonce": 68,
+        "hash": "00673ec6e2befde0e4ff0b449036971b03b592e78d9f01f4b15ace2e0ce8bc86"
+    },
+    {
+        "index": 67,
+        "timestamp": "2026-02-27 00:34:06.829624",
+        "data": {
+            "prediction_id": "PRED_67",
+            "timestamp": "2026-02-27 00:34:06.829609",
+            "disease": "ferrugen",
+            "moisture": 6,
+            "confidence": 0.65,
+            "image_name": "DSC_0089.jpg",
+            "verified": true
+        },
+        "previous_hash": "00673ec6e2befde0e4ff0b449036971b03b592e78d9f01f4b15ace2e0ce8bc86",
+        "nonce": 241,
+        "hash": "00c1072b8c3eacc962ee5ee6bfb6856156c70cd2cf31ba7d91a3c5b34e7cb5d7"
+    },
+    {
+        "index": 68,
+        "timestamp": "2026-02-27 00:34:18.183127",
+        "data": {
+            "prediction_id": "PRED_68",
+            "timestamp": "2026-02-27 00:34:18.183116",
+            "disease": "bacterial_blight",
+            "moisture": 21,
+            "confidence": 0.91,
+            "image_name": "bb (43).jpg",
+            "verified": true
+        },
+        "previous_hash": "00c1072b8c3eacc962ee5ee6bfb6856156c70cd2cf31ba7d91a3c5b34e7cb5d7",
+        "nonce": 167,
+        "hash": "00ccf7a87e105ca8da033fef27e730758c5a93186fb9ecae37e3745f7bb93d02"
+    },
+    {
+        "index": 69,
+        "timestamp": "2026-02-27 00:34:57.550206",
+        "data": {
+            "prediction_id": "PRED_69",
+            "timestamp": "2026-02-27 00:34:57.550195",
+            "disease": "bacterial_blight",
+            "moisture": 22,
+            "confidence": 0.79,
+            "image_name": "bb (9).jpg",
+            "verified": true
+        },
+        "previous_hash": "00ccf7a87e105ca8da033fef27e730758c5a93186fb9ecae37e3745f7bb93d02",
+        "nonce": 30,
+        "hash": "002defead32da044857d0e21d1b4d42d31797706ad7bbbbd86e10c813ab111c1"
+    },
+    {
+        "index": 70,
+        "timestamp": "2026-02-27 10:50:07.764628",
+        "data": {
+            "prediction_id": "PRED_70",
+            "timestamp": "2026-02-27 10:50:07.763725",
+            "disease": "bacterial_blight",
+            "moisture": 24,
+            "confidence": 0.72,
+            "image_name": "bb (2).jpg",
+            "verified": true
+        },
+        "previous_hash": "002defead32da044857d0e21d1b4d42d31797706ad7bbbbd86e10c813ab111c1",
+        "nonce": 554,
+        "hash": "0099b9340c87c874048ba7d0fdfb9e85040821f899f350f2edd217655cb584cd"
+    },
+    {
+        "index": 71,
+        "timestamp": "2026-02-27 10:54:29.165086",
+        "data": {
+            "prediction_id": "PRED_71",
+            "timestamp": "2026-02-27 10:54:29.165072",
+            "disease": "Yellow Mosaic",
+            "moisture": 53,
+            "confidence": 0.44,
+            "image_name": "download (35).jpeg",
+            "verified": true
+        },
+        "previous_hash": "0099b9340c87c874048ba7d0fdfb9e85040821f899f350f2edd217655cb584cd",
+        "nonce": 113,
+        "hash": "004980dbe64b7f0795f767231bc458e840e0165843efee98c6a07754577b3e66"
+    },
+    {
+        "index": 72,
+        "timestamp": "2026-02-27 10:57:26.710248",
+        "data": {
+            "prediction_id": "PRED_72",
+            "timestamp": "2026-02-27 10:57:26.710233",
+            "disease": "septoria",
+            "moisture": 51,
+            "confidence": 0.57,
+            "image_name": "1.jpg",
+            "verified": true
+        },
+        "previous_hash": "004980dbe64b7f0795f767231bc458e840e0165843efee98c6a07754577b3e66",
+        "nonce": 244,
+        "hash": "005385bab8108097c93857eaeda6b1fde2b9d8431aaaa9cbf3bc67d905cb589e"
+    },
+    {
+        "index": 73,
+        "timestamp": "2026-02-27 10:58:51.441667",
+        "data": {
+            "prediction_id": "PRED_73",
+            "timestamp": "2026-02-27 10:58:51.441656",
+            "disease": "Yellow Mosaic",
+            "moisture": 51,
+            "confidence": 0.44,
+            "image_name": "download.jpeg",
+            "verified": true
+        },
+        "previous_hash": "005385bab8108097c93857eaeda6b1fde2b9d8431aaaa9cbf3bc67d905cb589e",
+        "nonce": 85,
+        "hash": "00e4d3c82df1a91225a4f72b3e3e05fa5a00c763aa8feb75f98dd1bdc9649e55"
+    },
+    {
+        "index": 74,
+        "timestamp": "2026-02-27 11:02:01.825424",
+        "data": {
+            "prediction_id": "PRED_74",
+            "timestamp": "2026-02-27 11:02:01.825385",
+            "disease": "bacterial_blight",
+            "moisture": 36,
+            "confidence": 0.66,
+            "image_name": "download1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00e4d3c82df1a91225a4f72b3e3e05fa5a00c763aa8feb75f98dd1bdc9649e55",
+        "nonce": 128,
+        "hash": "00a0dfb8c848e7e8e233cf96cdb92fcf343778752f9725575a2192f8d5fd9b36"
+    },
+    {
+        "index": 75,
+        "timestamp": "2026-02-27 11:11:18.399843",
+        "data": {
+            "prediction_id": "PRED_75",
+            "timestamp": "2026-02-27 11:11:18.399820",
+            "disease": "bacterial_blight",
+            "moisture": 36,
+            "confidence": 0.66,
+            "image_name": "download1.jpg",
+            "verified": true
+        },
+        "previous_hash": "00a0dfb8c848e7e8e233cf96cdb92fcf343778752f9725575a2192f8d5fd9b36",
+        "nonce": 102,
+        "hash": "0056a46799574733f38f3000239bfd6b5d90d47c09fcac755a62ae775ac6aa60"
+    },
+    {
+        "index": 76,
+        "timestamp": "2026-02-27 11:11:34.000877",
+        "data": {
+            "prediction_id": "PRED_76",
+            "timestamp": "2026-02-27 11:11:34.000852",
+            "disease": "bacterial_blight",
+            "moisture": 36,
+            "confidence": 0.66,
+            "image_name": "download1.jpg",
+            "verified": true
+        },
+        "previous_hash": "0056a46799574733f38f3000239bfd6b5d90d47c09fcac755a62ae775ac6aa60",
+        "nonce": 69,
+        "hash": "00bb35ed9342a295874714970d846484a95104e1eaf986141a4e7388b72732bb"
+    },
+    {
+        "index": 77,
+        "timestamp": "2026-02-27 11:20:46.630427",
+        "data": {
+            "prediction_id": "PRED_77",
+            "timestamp": "2026-02-27 11:20:46.630409",
+            "disease": "Yellow Mosaic",
+            "moisture": 65,
+            "confidence": 0.74,
+            "image_name": "YM (90).jpg",
+            "verified": true
+        },
+        "previous_hash": "00bb35ed9342a295874714970d846484a95104e1eaf986141a4e7388b72732bb",
+        "nonce": 760,
+        "hash": "00d9765fc3ed48b2272c1d68c0bd4cf2d07d692eda8c50e05e9012e009c90080"
+    },
+    {
+        "index": 78,
+        "timestamp": "2026-02-27 11:22:08.020915",
+        "data": {
+            "prediction_id": "PRED_78",
+            "timestamp": "2026-02-27 11:22:08.020898",
+            "disease": "Yellow Mosaic",
+            "moisture": 68,
+            "confidence": 0.93,
+            "image_name": "YM (85).jpg",
+            "verified": true
+        },
+        "previous_hash": "00d9765fc3ed48b2272c1d68c0bd4cf2d07d692eda8c50e05e9012e009c90080",
+        "nonce": 514,
+        "hash": "0097028f7be6a2de54ac3f04522def1f833c91fb3279c7ca39b24f9158dd041b"
+    },
+    {
+        "index": 79,
+        "timestamp": "2026-02-27 11:22:59.853887",
+        "data": {
+            "prediction_id": "PRED_79",
+            "timestamp": "2026-02-27 11:22:59.853870",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 25,
+            "confidence": 0.94,
+            "image_name": "Sudden DS (86).jpg",
+            "verified": true
+        },
+        "previous_hash": "0097028f7be6a2de54ac3f04522def1f833c91fb3279c7ca39b24f9158dd041b",
+        "nonce": 21,
+        "hash": "001733aeec58143970f3bdc9607c72ccbc4d259a565549df12aeb99bd1fbfcf9"
+    },
+    {
+        "index": 80,
+        "timestamp": "2026-02-27 11:28:47.774013",
+        "data": {
+            "prediction_id": "PRED_80",
+            "timestamp": "2026-02-27 11:28:47.773994",
+            "disease": "septoria",
+            "moisture": 30,
+            "confidence": 0.84,
+            "image_name": "SeptoriaInicio.JPG",
+            "verified": true
+        },
+        "previous_hash": "001733aeec58143970f3bdc9607c72ccbc4d259a565549df12aeb99bd1fbfcf9",
+        "nonce": 241,
+        "hash": "00b3cc9e7a2d30f645914d43eeaff65c8eac9ba4e3353e70ba236d0503a8d9c1"
+    },
+    {
+        "index": 81,
+        "timestamp": "2026-02-27 11:32:20.655082",
+        "data": {
+            "prediction_id": "PRED_81",
+            "timestamp": "2026-02-27 11:32:20.655062",
+            "disease": "septoria",
+            "moisture": 30,
+            "confidence": 0.84,
+            "image_name": "SeptoriaInicio.JPG",
+            "verified": true
+        },
+        "previous_hash": "00b3cc9e7a2d30f645914d43eeaff65c8eac9ba4e3353e70ba236d0503a8d9c1",
+        "nonce": 199,
+        "hash": "001a1c855e317e223fe8ff2d86f8463a9b0981773178d61afc21c1edc1915275"
+    },
+    {
+        "index": 82,
+        "timestamp": "2026-02-27 11:39:24.312571",
+        "data": {
+            "prediction_id": "PRED_82",
+            "timestamp": "2026-02-27 11:39:24.312559",
+            "disease": "bacterial_blight",
+            "moisture": 25,
+            "confidence": 0.74,
+            "image_name": "f.JPG.jpeg",
+            "verified": true
+        },
+        "previous_hash": "001a1c855e317e223fe8ff2d86f8463a9b0981773178d61afc21c1edc1915275",
+        "nonce": 62,
+        "hash": "00ae8f7ac8e3f32230527ce3fdf78cc60d54f32a213795b081185b652809a193"
+    },
+    {
+        "index": 83,
+        "timestamp": "2026-02-27 11:43:18.349782",
+        "data": {
+            "prediction_id": "PRED_83",
+            "timestamp": "2026-02-27 11:43:18.349771",
+            "disease": "Yellow Mosaic",
+            "moisture": 68,
+            "confidence": 0.93,
+            "image_name": "s4.jpg",
+            "verified": true
+        },
+        "previous_hash": "00ae8f7ac8e3f32230527ce3fdf78cc60d54f32a213795b081185b652809a193",
+        "nonce": 127,
+        "hash": "0001590109a81f303d59b7281a080296e0d26e5acb35f1f9d53ea8fbfefca7d2"
+    },
+    {
+        "index": 84,
+        "timestamp": "2026-02-27 12:02:10.229693",
+        "data": {
+            "prediction_id": "PRED_84",
+            "timestamp": "2026-02-27 12:02:10.229681",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 22,
+            "confidence": 0.97,
+            "image_name": "s5.jpg",
+            "verified": true
+        },
+        "previous_hash": "0001590109a81f303d59b7281a080296e0d26e5acb35f1f9d53ea8fbfefca7d2",
+        "nonce": 223,
+        "hash": "00e09852dd3fd479500a89c8dac5dd2c79d7665a0dfb238460198c6e3a04ec8c"
+    },
+    {
+        "index": 85,
+        "timestamp": "2026-02-27 12:02:33.875703",
+        "data": {
+            "prediction_id": "PRED_85",
+            "timestamp": "2026-02-27 12:02:33.875690",
+            "disease": "septoria",
+            "moisture": 30,
+            "confidence": 0.84,
+            "image_name": "s2.JPG",
+            "verified": true
+        },
+        "previous_hash": "00e09852dd3fd479500a89c8dac5dd2c79d7665a0dfb238460198c6e3a04ec8c",
+        "nonce": 34,
+        "hash": "00e943d6190e5b2aee0f994295ee66e7cacf0ec830ce2b725d16134face0fd60"
+    },
+    {
+        "index": 86,
+        "timestamp": "2026-03-30 12:32:25.520043",
+        "data": {
+            "prediction_id": "PRED_86",
+            "timestamp": "2026-03-30 12:32:25.519891",
+            "disease": "bacterial_blight",
+            "moisture": 25,
+            "confidence": 0.74,
+            "image_name": "f.JPG.jpeg",
+            "verified": true
+        },
+        "previous_hash": "00e943d6190e5b2aee0f994295ee66e7cacf0ec830ce2b725d16134face0fd60",
+        "nonce": 395,
+        "hash": "00951407ad9cc6b637a49406adc858cc4b2cd065db8fb6c1cac0b2e18ed18f9e"
+    },
+    {
+        "index": 87,
+        "timestamp": "2026-03-30 12:32:29.078954",
+        "data": {
+            "prediction_id": "PRED_87",
+            "timestamp": "2026-03-30 12:32:29.078942",
+            "disease": "bacterial_blight",
+            "moisture": 25,
+            "confidence": 0.74,
+            "image_name": "f.JPG.jpeg",
+            "verified": true
+        },
+        "previous_hash": "00951407ad9cc6b637a49406adc858cc4b2cd065db8fb6c1cac0b2e18ed18f9e",
+        "nonce": 8,
+        "hash": "00854ca8d29a929a67de4f7d74ef252f675d4e7eaba85f0be0c44d3a1b9c8b6f"
+    },
+    {
+        "index": 88,
+        "timestamp": "2026-03-30 12:32:40.162683",
+        "data": {
+            "prediction_id": "PRED_88",
+            "timestamp": "2026-03-30 12:32:40.162671",
+            "disease": "septoria",
+            "moisture": 30,
+            "confidence": 0.84,
+            "image_name": "s2.JPG",
+            "verified": true
+        },
+        "previous_hash": "00854ca8d29a929a67de4f7d74ef252f675d4e7eaba85f0be0c44d3a1b9c8b6f",
+        "nonce": 35,
+        "hash": "006395be087885872864e31d197eee48188acb0eb61a6e6964b642cafd51c7b1"
+    },
+    {
+        "index": 89,
+        "timestamp": "2026-03-30 12:32:58.047744",
+        "data": {
+            "prediction_id": "PRED_89",
+            "timestamp": "2026-03-30 12:32:58.047728",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 25,
+            "confidence": 0.94,
+            "image_name": "s6.jpg",
+            "verified": true
+        },
+        "previous_hash": "006395be087885872864e31d197eee48188acb0eb61a6e6964b642cafd51c7b1",
+        "nonce": 10,
+        "hash": "005cf17a2899e6892817ce30fa5c5dfd23974c31c7d0261d0a7d0ee5b37d0a48"
+    },
+    {
+        "index": 90,
+        "timestamp": "2026-03-30 12:33:21.530581",
+        "data": {
+            "prediction_id": "PRED_90",
+            "timestamp": "2026-03-30 12:33:21.530572",
+            "disease": "Yellow Mosaic",
+            "moisture": 70,
+            "confidence": 0.92,
+            "image_name": "s3.jpg",
+            "verified": true
+        },
+        "previous_hash": "005cf17a2899e6892817ce30fa5c5dfd23974c31c7d0261d0a7d0ee5b37d0a48",
+        "nonce": 654,
+        "hash": "0022083e58211a18eb80455d1bf0f1cceb5f5c3ecdafdc798d0b6a064af1a372"
+    },
+    {
+        "index": 91,
+        "timestamp": "2026-08-07 13:34:29.883451",
+        "data": {
+            "prediction_id": "PRED_91",
+            "timestamp": "2026-08-07 13:34:29.883451",
+            "disease": "Yellow Mosaic",
+            "moisture": 47,
+            "confidence": 0.64,
+            "image_name": "image.jpg",
+            "verified": true
+        },
+        "previous_hash": "0022083e58211a18eb80455d1bf0f1cceb5f5c3ecdafdc798d0b6a064af1a372",
+        "nonce": 134,
+        "hash": "0095c75fd5f495bf6bcbd6002bcac97e74e09a8fdbf93df674f81e3b552cbc97"
+    },
+    {
+        "index": 92,
+        "timestamp": "2026-08-07 13:36:26.583378",
+        "data": {
+            "prediction_id": "PRED_92",
+            "timestamp": "2026-08-07 13:36:26.583378",
+            "disease": "Sudden Death Syndrone",
+            "moisture": 57,
+            "confidence": 0.56,
+            "image_name": "OIP (1).jpg",
+            "verified": true
+        },
+        "previous_hash": "0095c75fd5f495bf6bcbd6002bcac97e74e09a8fdbf93df674f81e3b552cbc97",
+        "nonce": 430,
+        "hash": "00c1bf1cd027d6500dd73dbd951cfcaa15a48355bfabd7998b2c97a08287ff27"
+    }
+]

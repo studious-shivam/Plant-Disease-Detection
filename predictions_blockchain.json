@@ -1,0 +1,13 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-06-23 08:52:36.030774",
+        "data": {
+            "message": "Genesis Block - Plant Disease Detection System",
+            "system": "AI Crop Monitoring with Blockchain"
+        },
+        "previous_hash": "0",
+        "nonce": 12,
+        "hash": "000cbe5144d28c752a3431c434eb3723542e2a724dda1643730bf3d8eff807c1"
+    }
+]
